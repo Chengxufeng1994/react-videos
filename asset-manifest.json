@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Youtuber-API/static/css/main.8a9f3d39.chunk.css",
+    "main.js": "/React-Youtuber-API/static/js/main.7f35c41b.chunk.js",
+    "main.js.map": "/React-Youtuber-API/static/js/main.7f35c41b.chunk.js.map",
+    "runtime-main.js": "/React-Youtuber-API/static/js/runtime-main.921f216d.js",
+    "runtime-main.js.map": "/React-Youtuber-API/static/js/runtime-main.921f216d.js.map",
+    "static/js/2.b43f54db.chunk.js": "/React-Youtuber-API/static/js/2.b43f54db.chunk.js",
+    "static/js/2.b43f54db.chunk.js.map": "/React-Youtuber-API/static/js/2.b43f54db.chunk.js.map",
+    "index.html": "/React-Youtuber-API/index.html",
+    "precache-manifest.b2cbee81def70af1d125e810871acae9.js": "/React-Youtuber-API/precache-manifest.b2cbee81def70af1d125e810871acae9.js",
+    "service-worker.js": "/React-Youtuber-API/service-worker.js",
+    "static/css/main.8a9f3d39.chunk.css.map": "/React-Youtuber-API/static/css/main.8a9f3d39.chunk.css.map"
+  }
+}
